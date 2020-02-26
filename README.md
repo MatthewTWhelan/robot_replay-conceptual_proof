@@ -1,4 +1,4 @@
-# robot_replay-conecptual_proof
+# Robotic Reverse Replay - A Conceptual Proof
 A proof of concept for a biophysical hippocampal replay computational model used in a Miro robot.
 
 The model is based largely on two computational models of hippocampal reverse replay by Haga and Fukai (2018) and Pang and Fairhall (2019). Shown here is a conceptual proof that the model produces reverse replays in a simulated robotic navigation task.
