@@ -3,8 +3,6 @@
 This is a test script for my initial replay network. All it requires as input is some trajectory data.
 '''
 
-# TODO need to add the synaptic plasticity rule during reverse replays
-
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
